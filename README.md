@@ -8,7 +8,7 @@
 
 [解答](https://colab.research.google.com/drive/1i3UjtGQZSJikDa6v4PpfFYrPkyISHC_1?invite=CI7liv0J)
 
-### 画像認識
+<!-- ### 画像認識
 
 GitHubのレポジトリをクローンする
 
@@ -67,7 +67,7 @@ out = model(tensor_img)
 predict = out.argmax(-1)
 for i in predict:
     print(labels[i.item()][-1])
-```
+``` -->
 ## 基礎実習2
 
 ### パーセプトロン
