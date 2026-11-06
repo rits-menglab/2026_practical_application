@@ -105,7 +105,7 @@ for i in predict:
 
 [こちらのリンクから](https://colab.research.google.com/drive/1ajqgEDAT19vBg2Wzyd18PLndheEJ4CG5?usp=sharing)
 
-### 物体検出
+<!-- ### 物体検出
 
 GitHubのレポジトリをクローンする
 
@@ -153,7 +153,7 @@ imgs = []
 for img in paths:
     imgs.append(Image.open(img))
 imgs[0]
-```
+``` -->
 
 ## 研究体験1
 
@@ -177,8 +177,3 @@ imgs[0]
 ### 軽量化
 
 [こちらのリンクから](https://colab.research.google.com/drive/1cCZwh0MB8txkFgIlFifi5vQm1Tk9F7gS)
-
-
-
-
-
