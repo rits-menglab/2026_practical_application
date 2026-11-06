@@ -1,4 +1,4 @@
-# 2025
+# 2026
 
 ## 基礎実習1
 
@@ -173,9 +173,6 @@ imgs[0]
 
 ## 研究体験3
 
-### 異常検知
-
-[こちらのリンクから](https://colab.research.google.com/drive/1AmZH6W5Hcefy-6eb9IFY-8GqDDFTHeL_?usp=sharing)
 
 ### 軽量化
 
