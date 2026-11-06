@@ -8,66 +8,6 @@
 
 [解答](https://colab.research.google.com/drive/1i3UjtGQZSJikDa6v4PpfFYrPkyISHC_1?invite=CI7liv0J)
 
-<!-- ### 画像認識
-
-GitHubのレポジトリをクローンする
-
-
-```bash
-!git clone https://github.com/rits-menglab/2025_practical_application
-```
-
-ディレクトリを移動する
-
-```bash
-cd 2024_practical_application
-```
-
-ImageNetのクラス情報(JSON)をダウンロード
-
-```bash
-!wget https://s3.amazonaws.com/deep-learning-models/image-models/imagenet_class_index.json
-```
-
-JSONファイルを読み込む
-
-```python
-import json
-class_index = json.load(open('imagenet_class_index.json', 'r'))
-print(class_index)
-```
-
-辞書のキーをstring型からint型へ変換
-
-```python
-labels = {int(key):value for (key, value) in class_index.items()}
-print(labels[332])
-```
-
-ImageNetで学習済みの画像認識モデルを読み込む
-
-```python
-from torchvision import models
-from utils import *
-
-model = models.vgg19(weights=models.VGG19_Weights.IMAGENET1K_V1).eval()
-```
-
-画像を読み込み、テンソルデータに変換
-
-```python
-img_path = './sample_data/sample1.jpg'
-tensor_img = make_tensor_img(img_path)
-```
-
-モデルに入力し、出力を表示
-
-```python
-out = model(tensor_img)
-predict = out.argmax(-1)
-for i in predict:
-    print(labels[i.item()][-1])
-``` -->
 ## 基礎実習2
 
 ### パーセプトロン
@@ -99,61 +39,12 @@ for i in predict:
 [こちらのリンクから](https://colab.research.google.com/drive/1f2lNmsQOl_ECVy27csxu9nMRzzLHepaE?usp=sharing)
 
 ### セグメンテーション
+
 [こちらのリンクから](https://colab.research.google.com/drive/1D6InfWOwsKNsE9jL9oJC6vaUPR-Ovd_p?usp=sharing)
 
 ### SegGPT
 
 [こちらのリンクから](https://colab.research.google.com/drive/1ajqgEDAT19vBg2Wzyd18PLndheEJ4CG5?usp=sharing)
-
-<!-- ### 物体検出
-
-GitHubのレポジトリをクローンする
-
-```bash
-!git clone https://github.com/ultralytics/yolov5
-```
-
-ディレクトリを移動する
-
-```bash
-cd yolov5
-```
-
-必要なパッケージをインストール
-
-```bash
-!pip install -r requirements.txt
-```
-
-サンプル画像の確認
-
-```python
-from PIL import Image
-import os
-import glob
-paths = glob.glob(os.path.join('data','images','*.*'))
-imgs = []
-for img in paths:
-    imgs.append(Image.open(img))
-imgs[0]
-```
-
-学習済みの物体検出モデルを用いて、画像を推論
-
-```bash
-!python3 detect.py
-```
-
-結果の画像を表示  
-結果画像のパスは **「Results saved to {結果画像のパス} 」** と表示される
-
-```python
-paths = glob.glob(os.path.join('{結果画像のパス}','*.*'))
-imgs = []
-for img in paths:
-    imgs.append(Image.open(img))
-imgs[0]
-``` -->
 
 ## 研究体験1
 
@@ -172,7 +63,6 @@ imgs[0]
 [こちらのリンクから](https://colab.research.google.com/drive/1TqgID4PnA9fFcI8TwH2Xg2hhzzowEGNO?usp=sharing)
 
 ## 研究体験3
-
 
 ### 軽量化
 
