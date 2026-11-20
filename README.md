@@ -16,7 +16,7 @@
 [こちらのリンクから](https://colab.research.google.com/drive/1Sgi3Ic3vMp30au0rNjh96KrZP-pFxNHA?usp=sharing)
 
 ## 応用実習１
-###　cifar10 Competition
+### 「cifar10 Competition」
 
 ## 応用実習２
 ### 「齋藤」
