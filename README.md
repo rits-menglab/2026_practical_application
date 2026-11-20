@@ -2,17 +2,31 @@
 
 ## 基礎実習
 ### Python基礎
+
+[こちらのリンクから](https://colab.research.google.com/drive/1xXIwb8mUwa3uT0cQ4bZH5n6NDu5iO17B?usp=sharing)
+
+[解答](https://colab.research.google.com/drive/1i3UjtGQZSJikDa6v4PpfFYrPkyISHC_1?invite=CI7liv0J)
+
+## 基礎実習2
+
 ### パーセプトロン
+
+[こちらのリンクから](https://colab.research.google.com/drive/188BM4B5aAk1t2le7w-uPpQy_ORlTwES-?usp=sharing)
+
 ### 畳み込みニューラルネットワーク
 
+[こちらのリンクから](https://colab.research.google.com/drive/1Sgi3Ic3vMp30au0rNjh96KrZP-pFxNHA?usp=sharing)
 
 ## 応用実習１
-### 「さいとう」
+###cifar10 Competition
 
 ## 応用実習２
-### 「市原」
+### 「齋藤」
 
 ## 応用実習３
+### 「市原」
+
+## 応用実習４
 ### 「山口」
 <br>
 <br>
@@ -82,23 +96,6 @@
 
 
 ## 以下2025
-## 基礎実習1
-
-### Python基礎
-
-[こちらのリンクから](https://colab.research.google.com/drive/1xXIwb8mUwa3uT0cQ4bZH5n6NDu5iO17B?usp=sharing)
-
-[解答](https://colab.research.google.com/drive/1i3UjtGQZSJikDa6v4PpfFYrPkyISHC_1?invite=CI7liv0J)
-
-## 基礎実習2
-
-### パーセプトロン
-
-[こちらのリンクから](https://colab.research.google.com/drive/188BM4B5aAk1t2le7w-uPpQy_ORlTwES-?usp=sharing)
-
-### 畳み込みニューラルネットワーク
-
-[こちらのリンクから](https://colab.research.google.com/drive/1Sgi3Ic3vMp30au0rNjh96KrZP-pFxNHA?usp=sharing)
 
 ### 画像生成１
 
