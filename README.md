@@ -5,8 +5,6 @@
 
 [こちらのリンクから](https://colab.research.google.com/drive/1xXIwb8mUwa3uT0cQ4bZH5n6NDu5iO17B?usp=sharing)
 
-[解答](https://colab.research.google.com/drive/1i3UjtGQZSJikDa6v4PpfFYrPkyISHC_1?invite=CI7liv0J)
-
 ## 基礎実習2
 
 ### パーセプトロン
